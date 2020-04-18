@@ -1,6 +1,6 @@
 {
   “版本”： 2，
   “路线”：[
-      { “ src ”：“ /(.*）”，“ dest ”：“ http://ee.erno.cn/$1 ” }
+      { “ src ”：“ /(.*）”，“ dest ”：“ https://ee.erno.cn/$1 ” }
   ]
 }
