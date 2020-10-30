@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "http://ee.erno.cn/$1"}
+      {"src": "/(.*)","dest": "http://erno.gearhostpreview.com/$1"}
   ]
 }
